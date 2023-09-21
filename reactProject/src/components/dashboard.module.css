@@ -1,0 +1,9 @@
+.dashboard{
+    display: grid;
+    place-items: center;
+    overflow: scroll;
+    color: white;
+    z-index: 50;
+    position: relative; 
+    flex: 1;
+}
